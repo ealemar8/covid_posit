@@ -8,7 +8,6 @@ import pandas as pd
 import requests
 from datetime import datetime
 import re
-import pickle
 import string
 import timestamp
 
